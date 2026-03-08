@@ -16,5 +16,7 @@ A Streamlit web app for basic data analysis and visualization.
 
 ## How to run
 
-pip install -r requirements.txt  
+```
+pip install -r requirements.txt
 streamlit run app.py
+```
